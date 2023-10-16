@@ -1,0 +1,93 @@
+A programming language is a set of gramatical rules and vocabulary given by compiler(Interpreter) for instructing a computer or machine to perform specific task .
+
+For example : C,C++,Objective-C,Swift,COBOL,PASCAL,Pearl,Java,Python and so on.
+
+LTS : Long Term Support
+
+Keywords : Keywords are predefined reserved words 
+- There are 53 reserved words in java .
+- In these 53 keywords , 50 are keywords and remaining 3 are literals .
+- Java is a highly case sensitive programming language .
+- And all the reserved words are always written in small letters .
+- outside class nothing ispossible in java except two statements 1. Import statement 2. Package Statement
+- If class is public then class name and file name must be same 
+- Reserved words of windows 
+	1.con
+	2.aux
+	3.prn
+	4.com1
+	5.com2
+	6.com3
+	7.com 4 UPTO 9
+ 	8.LPT 1 UPTO 9
+	9.nul
+After compilation , Java compiler generates byte code in the form of .class file .
+
+Standards for class name 
+
+1. Class name should be meaningful .
+2. Class name should be in camel case .
+3. Class name should be noun .
+
+Rules for class name
+
+1. Class name does not have any white spaces .
+2. Class name does not have any special character except $ and _ 
+3. CLass name must start with a non digit character .
+4. Class name can contain digits but after first place .
+5. Class name cannot duplicates keywords .
+
+Executable Class
+1. Executable class must have default name method . The syntax of default main method is public static void main(String[] args).
+2. Main method is the entry point of the class .
+3. Main method is called by JVM at runtime .
+4. Without the concept of JVM is not executable .
+
+Manipulations of main method
+
+Console
+1. Output window is known as console
+2. Standard Input and Output device is known as console .
+
+System is a class in Java
+Out is an Output stream available in system class .
+Println is a method in Java and this method is responsible to print something on console
+
+Control Statements 
+1. Control statements are those statements which are responsible to change the flow of execution of a program .
+2. There are mainly 3 types of control statements a) Decision making statements , b) Iterational statemts , c) Branching statemnts
+
+Decision making statements :
+There are 4 decision making statements:
+	1. if
+	2. iF-else
+	3. Ladder if-else
+	4. Nested if-else
+
+If and else both are keywords in java.
+
+Syntax of if-else statement:
+	if(condition){
+	}
+	else{
+	}
+
+If and else both are couple in java.
+
+Iterational Statements:
+-while loop 
+-for loop 
+-nested for loop 
+-labelling of loop
+-break statement
+-continue statement
+-do-while loop
+-nested do-while 
+-for-each loop
+-manipulations of if-else
+-manipulations of while
+-manipulations of for
+
+Branching Statements
+-Multi-Way Brabching statemts
+The example of Multi-Way Brabching statemt is Switch Case.
